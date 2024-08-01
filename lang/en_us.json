@@ -1,0 +1,164 @@
+{
+  "item.moltenmetals.wax_cast_ball": "Wax Cast Ball",
+
+  "item.moltenmetals.nugget_wax_cast": "Wax Cast Nugget",
+  "item.moltenmetals.ingot_wax_cast": "Wax Cast Ingot",
+  "item.moltenmetals.block_wax_cast": "Wax Cast Block",
+
+  "item.moltenmetals.boots_wax_cast": "Wax Cast Boots",
+  "item.moltenmetals.leggings_wax_cast": "Wax Cast Leggings",
+  "item.moltenmetals.chestplate_wax_cast": "Wax Cast Chestplate",
+  "item.moltenmetals.helmet_wax_cast": "Wax Cast Helmet",
+
+  "item.moltenmetals.axe_wax_cast": "Wax Cast Axe",
+  "item.moltenmetals.hoe_wax_cast": "Wax Cast Hoe",
+  "item.moltenmetals.pickaxe_wax_cast": "Wax Cast Pickaxe",
+  "item.moltenmetals.shovel_wax_cast": "Wax Cast Shovel",
+  "item.moltenmetals.sword_wax_cast": "Wax Cast Sword",
+  "item.moltenmetals.trident_wax_cast": "Wax Cast Trident",
+
+  "item.moltenmetals.iron_trident": "Casted Iron Trident",
+  "item.moltenmetals.golden_trident": "Casted Golden Trident",
+  "item.moltenmetals.copper_trident": "Casted Copper Trident",
+  "item.moltenmetals.brass_trident": "Casted Brass Trident",
+
+  "item.moltenmetals.iron_trident.info": "Harvests crops, automatically replanting them upon being thrown, also destroys grass",
+  "item.moltenmetals.golden_trident.info": "Riptide on this trident will be amplified significantly",
+  "item.moltenmetals.copper_trident.info": "Channeling on this trident makes it so it's channeling capability works in both rain and water",
+  "item.moltenmetals.brass_trident.info": "Reels the player towards itself when thrown into a block, and automatically returns (Doesn't work with Elytra)",
+
+  "item.moltenmetals.golden_sweet_roll": "Golden Sweet Roll",
+
+  "entity.moltenmetals.molten_trident": "Casted Trident",
+
+  "itemGroup.moltenmetals": "Create: Molten Metallurgy",
+
+  "fluid.moltenmetals.molten_aluminum": "Molten Aluminum",
+  "fluid.moltenmetals.molten_brass": "Molten Brass",
+  "fluid.moltenmetals.molten_copper": "Molten Copper",
+  "fluid.moltenmetals.molten_gold": "Molten Gold",
+  "fluid.moltenmetals.molten_iron": "Molten Iron",
+  "fluid.moltenmetals.molten_lead": "Molten Lead",
+  "fluid.moltenmetals.molten_nickel": "Molten Nickel",
+  "fluid.moltenmetals.molten_osmium": "Molten Osmium",
+  "fluid.moltenmetals.molten_silver": "Molten Silver",
+  "fluid.moltenmetals.molten_quicksilver": "Molten Quicksilver",
+  "fluid.moltenmetals.molten_platinum": "Molten Platinum",
+  "fluid.moltenmetals.molten_tin": "Molten Tin",
+  "fluid.moltenmetals.molten_uranium": "Molten Uranium",
+  "fluid.moltenmetals.molten_zinc": "Molten Zinc",
+  "fluid.moltenmetals.molten_electrum": "Molten Electrum",
+
+  "item.moltenmetals.molten_aluminum_bucket": "Bucket of Molten Aluminum",
+  "item.moltenmetals.molten_brass_bucket": "Bucket of Molten Brass",
+  "item.moltenmetals.molten_copper_bucket": "Bucket of Molten Copper",
+  "item.moltenmetals.molten_gold_bucket": "Bucket of Molten Gold",
+  "item.moltenmetals.molten_iron_bucket": "Bucket of Molten Iron",
+  "item.moltenmetals.molten_lead_bucket": "Bucket of Molten Lead",
+  "item.moltenmetals.molten_nickel_bucket": "Bucket of Molten Nickel",
+  "item.moltenmetals.molten_osmium_bucket": "Bucket of Molten Osmium",
+  "item.moltenmetals.molten_silver_bucket": "Bucket of Molten Silver",
+  "item.moltenmetals.molten_quicksilver_bucket": "Bucket of Molten Quicksilver",
+  "item.moltenmetals.molten_platinum_bucket": "Bucket of Molten Platinum",
+  "item.moltenmetals.molten_tin_bucket": "Bucket of Molten Tin",
+  "item.moltenmetals.molten_uranium_bucket": "Bucket of Molten Uranium",
+  "item.moltenmetals.molten_zinc_bucket": "Bucket of Molten Zinc",
+  "item.moltenmetals.molten_electrum_bucket": "Bucket of Molten Electrum",
+
+  "item.moltenmetals.aluminum_ingot": "Aluminum Ingot",
+  "item.moltenmetals.lead_ingot": "Lead Ingot",
+  "item.moltenmetals.nickel_ingot": "Nickel Ingot",
+  "item.moltenmetals.osmium_ingot": "Osmium Ingot",
+  "item.moltenmetals.silver_ingot": "Silver Ingot",
+  "item.moltenmetals.quicksilver_ingot": "Quicksilver Ingot",
+  "item.moltenmetals.platinum_ingot": "Platinum Ingot",
+  "item.moltenmetals.tin_ingot": "Tin Ingot",
+  "item.moltenmetals.uranium_ingot": "Uranium Ingot",
+
+  "item.moltenmetals.aluminum_nugget": "Aluminum Nugget",
+  "item.moltenmetals.lead_nugget": "Lead Nugget",
+  "item.moltenmetals.nickel_nugget": "Nickel Nugget",
+  "item.moltenmetals.osmium_nugget": "Osmium Nugget",
+  "item.moltenmetals.silver_nugget": "Silver Nugget",
+  "item.moltenmetals.quicksilver_nugget": "Quicksilver Nugget",
+  "item.moltenmetals.platinum_nugget": "Platinum Nugget",
+  "item.moltenmetals.tin_nugget": "Tin Nugget",
+  "item.moltenmetals.uranium_nugget": "Uranium Nugget",
+
+  "block.moltenmetals.wax_block": "Wax Block",
+  "block.moltenmetals.iron_slag": "Iron Slag",
+  "block.moltenmetals.copper_slag": "Copper Slag",
+  "block.moltenmetals.golden_slag": "Golden Slag",
+  "block.moltenmetals.zinc_slag": "Zinc Slag",
+  "block.moltenmetals.brass_slag": "Brass Slag",
+
+  "block.moltenmetals.golden_bricks": "Golden Bricks",
+  "block.moltenmetals.zinc_bricks": "Zinc Bricks",
+  "block.moltenmetals.brass_bricks": "Brass Bricks",
+  "block.moltenmetals.iron_bricks": "Iron Bricks",
+
+  "block.moltenmetals.copper_bricks": "Copper Bricks",
+  "block.moltenmetals.oxidized_copper_bricks": "Oxidized Copper Bricks",
+  "block.moltenmetals.weathered_copper_bricks": "Weathered Copper Bricks",
+  "block.moltenmetals.exposed_copper_bricks": "Exposed Copper Bricks",
+
+  "block.moltenmetals.waxed_copper_bricks": "Waxed Copper Bricks",
+  "block.moltenmetals.waxed_oxidized_copper_bricks": "Waxed Oxidized Copper Bricks",
+  "block.moltenmetals.waxed_weathered_copper_bricks": "Waxed Weathered Copper Bricks",
+  "block.moltenmetals.waxed_exposed_copper_bricks": "Waxed Exposed Copper Bricks",
+
+  "block.moltenmetals.copper_brick_wall": "Copper Brick Wall",
+  "block.moltenmetals.oxidized_copper_brick_wall": "Oxidized Copper Brick Wall",
+  "block.moltenmetals.weathered_copper_brick_wall": "Weathered Copper Brick Wall",
+  "block.moltenmetals.exposed_copper_brick_wall": "Exposed Copper Brick Wall",
+
+  "block.moltenmetals.waxed_copper_brick_wall": "Waxed Copper Brick Wall",
+  "block.moltenmetals.waxed_oxidized_copper_brick_wall": "Waxed Oxidized Copper Brick Wall",
+  "block.moltenmetals.waxed_weathered_copper_brick_wall": "Waxed Weathered Copper Brick Wall",
+  "block.moltenmetals.waxed_exposed_copper_brick_wall": "Waxed Exposed Copper Brick Wall",
+
+  "block.moltenmetals.copper_button": "Copper Button",
+  "block.moltenmetals.oxidized_copper_button": "Oxidized Copper Button",
+  "block.moltenmetals.weathered_copper_button": "Weathered Copper Button",
+  "block.moltenmetals.exposed_copper_button": "Exposed Copper Button",
+
+  "block.moltenmetals.waxed_copper_button": "Waxed Copper Button",
+  "block.moltenmetals.waxed_oxidized_copper_button": "Waxed Oxidized Copper Button",
+  "block.moltenmetals.waxed_weathered_copper_button": "Waxed Weathered Copper Button",
+  "block.moltenmetals.waxed_exposed_copper_button": "Waxed Exposed Copper Button",
+
+  "block.moltenmetals.iron_brick_wall": "Iron Brick Wall",
+  "block.moltenmetals.golden_brick_wall": "Golden Brick Wall",
+  "block.moltenmetals.zinc_brick_wall": "Zinc Brick Wall",
+  "block.moltenmetals.brass_brick_wall": "Brass Brick Wall",
+
+  "advancements.moltenmetals.bee_line.title": "The Bee Line",
+  "advancements.moltenmetals.bee_line.description": "Obtain a Wax Cast Ball from washing Honeycomb",
+
+  "advancements.moltenmetals.get_squished.title": "Get Squished",
+  "advancements.moltenmetals.get_squished.description": "Use a Deployer with an item in it's hand on a Wax Cast Ball",
+
+  "advancements.moltenmetals.melted_molten.title": "Melted Molten",
+  "advancements.moltenmetals.melted_molten.description": "Obtain a bucket of molten metal of your choice from a heating a Basin with a Blaze Burner",
+
+  "advancements.moltenmetals.wax_collection.title": "The Wax Collection",
+  "advancements.moltenmetals.wax_collection.description": "Obtain every Wax Cast as well as the Wax Block",
+
+  "advancements.moltenmetals.molten_metallurgy.title": "Molten Metallurgy",
+  "advancements.moltenmetals.molten_metallurgy.description": "Welcome to Create: Molten Metallurgy",
+
+  "advancements.moltenmetals.the_irony.title": "The Irony",
+  "advancements.moltenmetals.the_irony.description": "Jump into Molten Iron, Was it Iron Pick?",
+
+  "advancements.moltenmetals.slagma.title": "Slagma",
+  "advancements.moltenmetals.slagma.description": "Obtain one of the Metal Slags, a decorative block created from making Molten Metals interact with Water",
+
+  "advancements.moltenmetals.worthless_bricks.title": "Worthless Bricks",
+  "advancements.moltenmetals.worthless_bricks.description": "Obtain Metal Bricks, You can't melt it down but you can use it in place of expensive materials",
+
+  "advancements.moltenmetals.trying_tridents.title": "Trying Tridents",
+  "advancements.moltenmetals.trying_tridents.description": "Obtain a Casted Trident, To cater to your Trident needs",
+
+  "advancements.moltenmetals.heavy_metal_diet.title": "A Heavy Metal Diet",
+  "advancements.moltenmetals.heavy_metal_diet.description": "Consume all Vanilla and Molten Metallurgy's golden food items"
+}
