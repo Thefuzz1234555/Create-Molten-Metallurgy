@@ -1,0 +1,14 @@
+name: Feature Request
+description: Suggest an idea for the mod
+title: "[Suggestion]: "
+labels: ["suggestion"]
+projects: []
+assignees: []
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of feature request
+      placeholder: "Describe what you'd like to see in the mod. Don't spare the details!"
+    validations:
+      required: true
