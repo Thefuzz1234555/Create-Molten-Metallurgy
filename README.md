@@ -2,8 +2,7 @@
 
 ![Modrinth Version](https://img.shields.io/modrinth/v/16yGFyDF?logo=modrinth&label=Modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fcreate-molten-metallurgy)
 
-[![Discord](https://img.shields.io/discord/987817685293355028?link=https%3A%2F%2Fdiscord.com%2Finvite%2Fcracker-s-modded-community-987817685293355028)](https://img.shields.io/discord/987817685293355028?logo=discord&label=Discord&color=5865f2&link=https%3A%2F%2Fdiscord.com%2Finvite%2Fcracker-s-modded-community-987817685293355028
-)
+![Discord](https://img.shields.io/discord/987817685293355028?logo=discord&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Finvite%2Fcracker-s-modded-community-987817685293355028)
 
 Create: Molten Metallurgy's official public repository
 
