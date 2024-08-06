@@ -15,6 +15,19 @@
   "item.moltenmetals.pickaxe_wax_cast": "Wax Cast Pickaxe",
   "item.moltenmetals.shovel_wax_cast": "Wax Cast Shovel",
   "item.moltenmetals.sword_wax_cast": "Wax Cast Sword",
+
+  "item.moltenmetals.iron_axe_transition": "Unfinished Iron Axe Cast",
+  "item.moltenmetals.iron_hoe_transition": "Unfinished Iron Hoe Cast",
+  "item.moltenmetals.iron_pickaxe_transition": "Unfinished Iron Pickaxe Cast",
+  "item.moltenmetals.iron_shovel_transition": "Unfinished Iron Shovel Cast",
+  "item.moltenmetals.iron_sword_transition": "Unfinished Iron Sword Cast",
+
+  "item.moltenmetals.golden_axe_transition": "Unfinished Golden Axe Cast",
+  "item.moltenmetals.golden_hoe_transition": "Unfinished Golden Hoe Cast",
+  "item.moltenmetals.golden_pickaxe_transition": "Unfinished Golden Pickaxe Cast",
+  "item.moltenmetals.golden_shovel_transition": "Unfinished Golden Shovel Cast",
+  "item.moltenmetals.golden_sword_transition": "Unfinished Golden Sword Cast",
+
   "item.moltenmetals.trident_wax_cast": "Wax Cast Trident",
 
   "item.moltenmetals.iron_trident": "Casted Iron Trident",
