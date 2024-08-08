@@ -1,4 +1,7 @@
-# Create Molten Metallurgy
+![icon](https://github.com/user-attachments/assets/d7c7fbc5-b248-4622-b076-5729fe8c87a8)
+
+
+# __Create Molten Metallurgy__
 
 ![CurseForge Downloads](https://img.shields.io/curseforge/dt/1075110?logo=curseforge&label=Curseforge&color=%23F16436&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmc-mods%2Fcreate-molten-metallurgy)
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/16yGFyDF?logo=modrinth&label=Modrinth&color=%2300AF5C&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fcreate-molten-metallurgy)
